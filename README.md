@@ -29,7 +29,7 @@ git clone https://github.com/Blockcast/beacon-docker-compose.git
 cd beacon-docker-compose
 ```
 
-**دانلود ایمیج‌های داکرو  راه‌اندازی نود**
+**دانلود ایمیج‌های داکر    و  راه‌اندازی نود**
 ```
 docker compose pull
 docker compose up -d
@@ -37,11 +37,32 @@ docker compose up -d
 
 **رجیستر نود**
 
-درمرحله  اطلاعات که داده میشه ()رو  سیو کنید 
+درمرحله  اطلاعات که داده میشه رو  سیو کنید   Hardwar id  -  challenge key -Registration URL
+
 
 ```
 docker compose exec blockcastd blockcastd init
 ```
+
+
+
+**رجیستر کردن  نودتون**
+
+با استفاده از این  لینک https://app.blockcast.network?referral-code=zh6QZH      از قسمت پروفایل   دیسکورد و  والتون و توییترتون رو وصل کنید 
+بعد از قسمت اطلاعات  که سیو کرده بودید رو میدید و نودتون رو ریجستر میکنید
+
+![image](https://github.com/user-attachments/assets/379beb60-81f4-4799-8941-2b16bea58ba7)
+
+
+
+و خروجی  این باید باشه  وضعیت افلاین  به انلاین تغیر کنه 
+![image](https://github.com/user-attachments/assets/88fa0348-ddf9-44f9-9b9e-4b7acb074a83)
+
+
+
+
+لینک کانال ما : https://t.me/crypto_treasure_hunt_air
+
 
 
 
