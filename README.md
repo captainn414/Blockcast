@@ -49,7 +49,7 @@ docker compose exec blockcastd blockcastd init
 **رجیستر کردن  نودتون**
 
 با استفاده از این  لینک https://app.blockcast.network?referral-code=zh6QZH      از قسمت پروفایل   دیسکورد و  والتون و توییترتون رو وصل کنید 
-بعد از قسمت اطلاعات  که سیو کرده بودید رو میدید و نودتون رو ریجستر میکنید
+بعد از قسمت mange node  اطلاعاتی  که سیو کرده بودید رو میدید و نودتون رو ریجستر میکنید
 
 ![image](https://github.com/user-attachments/assets/379beb60-81f4-4799-8941-2b16bea58ba7)
 
